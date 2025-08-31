@@ -10,7 +10,7 @@
     "eject": "react-scripts eject"
   },
   "keywords": ["ui", "design system", "react", "tailwind css"],
-  "author": "Your Name",
+  "author": "John Doe",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
