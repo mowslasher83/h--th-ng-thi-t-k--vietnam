@@ -1,0 +1,25 @@
+{
+  "name": "hệ-thống-thiết-kế-vietnam",
+  "version": "1.0.0",
+  "description": "Hệ Thống Thiết Kế Việt Nam",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": ["ui", "design system", "react", "tailwind css"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "tailwindcss": "^2.2.0",
+    "@storybook/react": "^6.0.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.2.1",
+    "autoprefixer": "^10.2.5"
+  }
+}
